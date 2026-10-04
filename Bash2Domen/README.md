@@ -133,6 +133,8 @@
 
 ```plantuml
 @startuml
+hide circle
+
 class "Агроном" as Actor
 class "Поле" as Aggregate
 class "Рослина" as Part
