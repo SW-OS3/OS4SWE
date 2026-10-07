@@ -328,13 +328,14 @@ Aggregate "1" o-- "*" Part
 
 
 ### Перевірити виконання предметно-орієнтованих команд, наприклад:
+```bash
 pereyty pole
 rozmittyty pole
 posadyty roslyna
 oglyanuty pole
 peresadyty roslyna pole2
 vykorchuvaty roslyna
-
+```
 
 ## Текстові описи предметних областей
 
